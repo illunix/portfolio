@@ -19,7 +19,7 @@ export class NavbarComponent {
 
 
   onGetInTouch() {
-    window.open('mailto:maks.szokalski@icloud.com?subject=');
+    window.open('mailto:cros448@gmail.com?subject=');
   }
 
   private openExternalUrl(url: string) {
