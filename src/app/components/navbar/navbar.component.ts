@@ -10,7 +10,7 @@ export class NavbarComponent {
   constructor(public router: Router) { }
 
   onOpenPortoflio() {
-    this.openExternalUrl('https://github.com/illunix?tab=repositories');
+    this.openExternalUrl('https://github.com/illunix');
   }
 
   onOpenLinkedIn() {
