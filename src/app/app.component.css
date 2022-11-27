@@ -1,0 +1,4 @@
+.main-view {
+    @apply bg-zinc-800;
+    min-height: calc(100vh - 72px);
+}
